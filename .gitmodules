@@ -1,0 +1,42 @@
+[submodule "Mods/Aura"]
+	path = Mods/Aura
+	url = https://github.com/MathIsFun0/Aura
+[submodule "Mods/balatro-safety-steamodded"]
+	path = Mods/balatro-safety-steamodded
+	url = https://github.com/Zei33/balatro-safety-steamodded
+[submodule "Mods/BetterStakes"]
+	path = Mods/BetterStakes
+	url = https://github.com/Dimserene/BetterStakes
+[submodule "Mods/Brainstorm"]
+	path = Mods/Brainstorm
+	url = https://github.com/OceanRamen/Brainstorm
+[submodule "Mods/Balatro-DeckCreator"]
+	path = Mods/Balatro-DeckCreator
+	url = https://github.com/adambennett/Balatro-DeckCreator
+[submodule "Mods/cartomancer"]
+	path = Mods/cartomancer
+	url = https://github.com/stupxd/cartomancer
+[submodule "Mods/JokerDisplay"]
+	path = Mods/JokerDisplay
+	url = https://github.com/nh6574/JokerDisplay
+[submodule "Mods/JokerSellValue"]
+	path = Mods/JokerSellValue
+	url = https://github.com/OppositeWolf770/JokerSellValue
+[submodule "Mods/NeowBlessings"]
+	path = Mods/NeowBlessings
+	url = https://github.com/kjossul/NeowBlessings
+[submodule "Mods/Nopeus"]
+	path = Mods/Nopeus
+	url = https://github.com/cubeanimataz/Nopeus
+[submodule "Mods/balatro-NotJustYet"]
+	path = Mods/balatro-NotJustYet
+	url = https://github.com/Toneblock/balatro-NotJustYet
+[submodule "Mods/Balatro-Stickers-Always-Shown"]
+	path = Mods/Balatro-Stickers-Always-Shown
+	url = https://github.com/Dimserene/Balatro-Stickers-Always-Shown
+[submodule "Mods/Taikomochi"]
+	path = Mods/Taikomochi
+	url = https://github.com/Amvoled/Taikomochi
+[submodule "Mods/Trance"]
+	path = Mods/Trance
+	url = https://github.com/Dimserene/Trance
