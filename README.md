@@ -19,7 +19,7 @@ Mod List: https://docs.google.com/spreadsheets/d/1L2wPG5mNI-ZBSW_ta__L9EcfAw-arK
   Run following scripts in command prompt:
 
   ```
-  git clone --recurse-submodules --remote-submodules https://github.com/Dimserene/Dimserenes-Modpack
+  git clone --recurse-submodules --remote-submodules https://github.com/Dimserene/Vanilla-Plus-Pack/
   ```
 
   And then copy all the contents in Mods folder to your Mods folder.
@@ -29,7 +29,7 @@ Mod List: https://docs.google.com/spreadsheets/d/1L2wPG5mNI-ZBSW_ta__L9EcfAw-arK
   Run following scripts in command prompt:
 
   ```
-git remote set-url origin https://github.com/Dimserene/Dimserenes-Modpack
+git remote set-url origin https://github.com/Dimserene/Vanilla-Plus-Pack
 git submodule update --remote --recursive --merge
   ```
 
