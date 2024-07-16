@@ -1,4 +1,4 @@
-![Alttext](https://github.com/Dimserene/Vanilla-Plus-Pack/blob/main/Logo_Vanilla_Plus.png)
+![Alttext](https://github.com/Dimserene/Vanilla-Plus-Pack/blob/main/Logo_Vanilla_Plus.jpg)
 Main modpack: [Dimserene's Modpack](https://github.com/Dimserene/Dimserenes-Modpack)
 
 Mod List: [Google Sheet](https://docs.google.com/spreadsheets/d/1L2wPG5mNI-ZBSW_ta__L9EcfAw-arKrXXVD-43eU4og/)
