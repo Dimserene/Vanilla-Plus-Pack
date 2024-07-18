@@ -43,3 +43,6 @@
 [submodule "Mods/Brainstorm"]
 	path = Mods/Brainstorm
 	url = https://github.com/OceanRamen/Brainstorm
+[submodule "Mods/CardSleeves"]
+	path = Mods/CardSleeves
+	url = https://github.com/larswijn/CardSleeves
