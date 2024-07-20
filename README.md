@@ -14,23 +14,31 @@ Mod List: [Google Sheet](https://docs.google.com/spreadsheets/d/1L2wPG5mNI-ZBSW_
 
     [Download](https://github.com/ethangreen-dev/lovely-injector/releases) [Discord](https://discord.com/channels/1116389027176787968/1214591552903716954) [Authors](https://github.com/ethangreen-dev/lovely-injector/graphs/contributors?from=2024-03-03&to=2024-06-26&type=c)
 
-
 ## How to Install
+
+  (Windows) Download the __SetupVanillaPlus.bat__ and put it wherever you want, and run it. The mods will be automatically downloaded and put into correct directory.
+
+  Or
 
   Run following scripts in command prompt:
 
   ```
-  git clone --recurse-submodules --remote-submodules https://github.com/Dimserene/Vanilla-Plus-Pack/
+  git clone --recurse-submodules --remote-submodules https://github.com/Dimserene/Vanilla-Plus-Pack
   ```
 
   And then copy all the contents in Mods folder to your Mods folder.
 
 ## How to Update Modpack
 
+  (Windows) Run __UpdateVanillaPlus.bat__ which should be in the downloaded __Vanilla-Plus-Pack__ folder.
+
+  Or
+
   Run following scripts in command prompt:
 
   ```
 git remote set-url origin https://github.com/Dimserene/Vanilla-Plus-Pack
+git pull
 git submodule update --remote --recursive --merge
   ```
 
