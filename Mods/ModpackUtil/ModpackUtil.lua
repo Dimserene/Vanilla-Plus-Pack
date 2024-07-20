@@ -3,8 +3,19 @@
 --- MOD_ID: Modpack_Util
 --- MOD_AUTHOR: [Dimserene]
 --- MOD_DESCRIPTION: Dimserene's Modpack Utility
+--- VERSION: Vanilla+
+--- PRIORITY: -999999999999999999999999
 ----------------------------------------------
 ------------MOD CODE -------------------------
+
+if SMODS.Atlas then
+  SMODS.Atlas({
+    key = "modicon",
+    path = "icon.png",
+    px = 32,
+    py = 32
+  })
+end
 
 local MODPACK_VERSION = "Dimserene's Modpack - Vanilla+"
 
