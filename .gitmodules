@@ -34,9 +34,9 @@
 [submodule "Mods/BalatroFoldButton"]
 	path = Mods/BalatroFoldButton
 	url = https://github.com/happinyz/BalatroFoldButton
-[submodule "Mods/Brainstorm"]
-	path = Mods/Brainstorm
-	url = https://github.com/OceanRamen/Brainstorm
 [submodule "Mods/JokerDisplayModSupport"]
 	path = Mods/JokerDisplayModSupport
 	url = https://github.com/nh6574/JokerDisplayModSupport/
+[submodule "Mods/Brainstorm"]
+	path = Mods/Brainstorm
+	url = https://github.com/Dimserene/Brainstorm
