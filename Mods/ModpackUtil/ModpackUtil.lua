@@ -3,10 +3,13 @@
 --- MOD_ID: Modpack_Util
 --- MOD_AUTHOR: [Dimserene]
 --- MOD_DESCRIPTION: Dimserene's Modpack Utility
---- VERSION: Vanilla+
+--- VERSION: Fine-tuned
 --- PRIORITY: -999999999999999999999999
 ----------------------------------------------
 ------------MOD CODE -------------------------
+
+local lovely = require("lovely")
+local nativefs = require("nativefs")
 
 if SMODS.Atlas then
   SMODS.Atlas({
@@ -17,7 +20,15 @@ if SMODS.Atlas then
   })
 end
 
-local MODPACK_VERSION = "Dimserene's Modpack - Vanilla+"
+
+-- read version.txt
+local version = nativefs.read(lovely.mod_dir .. "/ModpackUtil/version.txt")
+
+local updated = os.date("!%Y/%m/%d %H:%M:%S", love.filesystem.getLastModified(lovely.mod_dir .. "/ModpackUtil/version.txt"))
+
+
+local MODPACK_VERSION = "Dimserene's Modpack - Fine-tuned" .. "\nCurrent Version: " .. version .. "     Last Update: " .. updated
+
 
 local gameMainMenuRef = Game.main_menu
 function Game:main_menu(change_context)
