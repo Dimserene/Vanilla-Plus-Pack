@@ -43,3 +43,9 @@
 [submodule "Mods/FoldButton"]
 	path = Mods/FoldButton
 	url = https://github.com/happinyz/BalatroFoldButton
+[submodule "Mods/StackedRedSeals"]
+	path = Mods/StackedRedSeals
+	url = https://github.com/cerloCasa/StackedRedSeals
+[submodule "Mods/Aurinko"]
+	path = Mods/Aurinko
+	url = https://github.com/jenwalter666/Aurinko
