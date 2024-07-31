@@ -49,3 +49,9 @@
 [submodule "Mods/Aurinko"]
 	path = Mods/Aurinko
 	url = https://github.com/jenwalter666/Aurinko
+[submodule "Mods/Aure-Spectral"]
+	path = Mods/Aure-Spectral
+	url = https://github.com/SDM0/Aure-Spectral
+[submodule "Mods/DVD"]
+	path = Mods/DVD
+	url = https://github.com/stupxd/dvd
