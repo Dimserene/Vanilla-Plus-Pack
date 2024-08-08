@@ -37,9 +37,10 @@ If you wanna join us dealing with this nightmare beast, you can join our [Discor
 
   Run following scripts in command prompt:
 
-  ```
+```
 git clone --recurse-submodules --remote-submodules https://github.com/Dimserene/Vanilla-Plus-Pack
-xcopy "Vanilla-Plus-Pack\Mods" "%appdata%\Balatro\Mods" /w /e /h /i  ```
+xcopy "Vanilla-Plus-Pack\Mods" "%appdata%\Balatro\Mods" /w /e /h /i
+```
 
   And then copy all the contents in Mods folder to your Mods folder.
 
