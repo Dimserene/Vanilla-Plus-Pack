@@ -25,9 +25,6 @@
 [submodule "Mods/DebugPlus"]
 	path = Mods/DebugPlus
 	url = https://github.com/Dimserene/DebugPlus
-[submodule "Mods/Stickers-Always-Shown"]
-	path = Mods/Stickers-Always-Shown
-	url = https://github.com/Dimserene/Stickers-Always-Shown
 [submodule "Mods/Cartomancer"]
 	path = Mods/Cartomancer
 	url = https://github.com/stupxd/Cartomancer
@@ -46,3 +43,6 @@
 [submodule "Mods/Aure-Spectral"]
 	path = Mods/Aure-Spectral
 	url = https://github.com/SDM0/Aure-Spectral
+[submodule "Mods/Balatro-Stickers-Always-Shown"]
+	path = Mods/Balatro-Stickers-Always-Shown
+	url = https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown
