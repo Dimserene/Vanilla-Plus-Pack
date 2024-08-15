@@ -46,3 +46,12 @@
 [submodule "Mods/Stickers-Always-Shown"]
 	path = Mods/Stickers-Always-Shown
 	url = https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown
+[submodule "Mods/AncientJokerFix"]
+	path = Mods/AncientJokerFix
+	url = https://github.com/gabepesco/BalatroAncientJokerFix
+[submodule "Mods/Galdur"]
+	path = Mods/Galdur
+	url = https://github.com/Eremel/Galdur/
+[submodule "Mods/Handy"]
+	path = Mods/Handy
+	url = https://github.com/SleepyG11/HandyBalatro
