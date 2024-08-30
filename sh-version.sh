@@ -34,9 +34,9 @@ generate_new_version_string() {
     # Get the current date in UTC format (YYYY-MM-DD)
     local current_date=$(date -u "+%Y-%m-%d")
 
-    if [[ "$latest_version_date" == "$current_date" ]]; then
+    if [ "$latest_version_date" = "$current_date" ]; then
         # If the latest commit date matches the current date, advance the alphabet by one
-        if [[ "$latest_version_alpha" == "z" ]]; then
+        if [ "$latest_version_alpha" = "z" ]; then
             latest_version_alpha="a"  # If it's 'z', roll over to 'a'
         else
             latest_version_alpha=$(echo "$latest_version_alpha" | tr "a-y" "b-z")  # Advance alphabet by one
@@ -68,7 +68,7 @@ new_version_string=$(generate_new_version_string)
 
 # Read the current version from the CurrentVersion.txt file, if it exists
 old_version_string=""
-if [[ -f "./CurrentVersion.txt" ]]; then
+if [ -f "./CurrentVersion.txt" ]; then
     old_version_string=$(cat ./CurrentVersion.txt)
 fi
 
