@@ -40,9 +40,6 @@
 [submodule "Mods/Aure-Spectral"]
 	path = Mods/Aure-Spectral
 	url = https://github.com/SDM0/Aure-Spectral
-[submodule "Mods/Stickers-Always-Shown"]
-	path = Mods/Stickers-Always-Shown
-	url = https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown
 [submodule "Mods/AncientJokerFix"]
 	path = Mods/AncientJokerFix
 	url = https://github.com/gabepesco/BalatroAncientJokerFix
