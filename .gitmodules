@@ -37,3 +37,6 @@
 [submodule "Mods/Handy"]
 	path = Mods/Handy
 	url = https://github.com/SleepyG11/HandyBalatro
+[submodule "Mods/DeckSkinsPlus"]
+	path = Mods/DeckSkinsPlus
+	url = https://github.com/Dimserene/DeckSkinsPlus.git
