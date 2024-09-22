@@ -40,3 +40,9 @@
 [submodule "Mods/DeckSkinsPlus"]
 	path = Mods/DeckSkinsPlus
 	url = https://github.com/Dimserene/DeckSkinsPlus.git
+[submodule "Mods/Flower-Pot"]
+	path = Mods/Flower-Pot
+	url = https://github.com/GauntletGames-2086/Flower-Pot
+[submodule "Mods/Talisman"]
+	path = Mods/Talisman
+	url = https://github.com/Dimserene/Talisman
