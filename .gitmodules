@@ -19,9 +19,6 @@
 [submodule "Mods/BalatroSafety"]
 	path = Mods/BalatroSafety
 	url = https://github.com/Zei33/balatro-safety-steamodded
-[submodule "Mods/NotJustYet"]
-	path = Mods/NotJustYet
-	url = https://github.com/Toneblock/balatro-NotJustYet
 [submodule "Mods/Galdur"]
 	path = Mods/Galdur
 	url = https://github.com/Eremel/Galdur/
