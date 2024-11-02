@@ -1,6 +1,3 @@
-[submodule "Mods/Aura"]
-	path = Mods/Aura
-	url = https://github.com/MathIsFun0/Aura
 [submodule "Mods/JokerDisplay"]
 	path = Mods/JokerDisplay
 	url = https://github.com/nh6574/JokerDisplay
@@ -25,9 +22,6 @@
 [submodule "Mods/Handy"]
 	path = Mods/Handy
 	url = https://github.com/SleepyG11/HandyBalatro
-[submodule "Mods/DeckSkinsPlus"]
-	path = Mods/DeckSkinsPlus
-	url = https://github.com/Dimserene/DeckSkinsPlus.git
 [submodule "Mods/Flower-Pot"]
 	path = Mods/Flower-Pot
 	url = https://github.com/GauntletGames-2086/Flower-Pot
