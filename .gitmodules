@@ -16,9 +16,6 @@
 [submodule "Mods/Galdur"]
 	path = Mods/Galdur
 	url = https://github.com/Eremel/Galdur/
-[submodule "Mods/Handy"]
-	path = Mods/Handy
-	url = https://github.com/SleepyG11/HandyBalatro
 [submodule "Mods/Flower-Pot"]
 	path = Mods/Flower-Pot
 	url = https://github.com/GauntletGames-2086/Flower-Pot
