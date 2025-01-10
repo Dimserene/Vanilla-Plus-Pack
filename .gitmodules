@@ -31,15 +31,9 @@
 [submodule "Mods/HeyListen"]
 	path = Mods/HeyListen
 	url = https://github.com/SleepyG11/HeyListenBalatro
-[submodule "Mods/ModPackFixes"]
-	path = Mods/ModPackFixes
-	url = https://github.com/lshtech/ModPackFixes
 [submodule "Mods/Blueprint"]
 	path = Mods/Blueprint
 	url = https://github.com/stupxd/Blueprint
-[submodule "Mods/Potatro"]
-	path = Mods/Potatro
-	url = https://github.com/balt-dev/potatro/
 [submodule "Mods/Aure-Spectral"]
 	path = Mods/Aure-Spectral
 	url = https://github.com/SDM0/Aure-Spectral
@@ -58,3 +52,6 @@
 [submodule "Mods/Item-Remover"]
 	path = Mods/Item-Remover
 	url = https://github.com/art-muncher/Item-Remover
+[submodule "Mods/Steamodded"]
+	path = Mods/Steamodded
+	url = https://github.com/Steamodded/smods
