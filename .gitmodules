@@ -46,6 +46,3 @@
 [submodule "Mods/ModPackFixes"]
 	path = Mods/ModPackFixes
 	url = https://github.com/lshtech/ModPackFixes
-[submodule "Mods/Talisman"]
-	path = Mods/Talisman
-	url = https://github.com/MathIsFun0/Talisman
