@@ -25,9 +25,6 @@
 [submodule "Mods/Blueprint"]
 	path = Mods/Blueprint
 	url = https://github.com/stupxd/Blueprint
-[submodule "Mods/Aure-Spectral"]
-	path = Mods/Aure-Spectral
-	url = https://github.com/SDM0/Aure-Spectral
 [submodule "Mods/DebugPlus"]
 	path = Mods/DebugPlus
 	url = https://github.com/WilsontheWolf/DebugPlus
@@ -85,3 +82,6 @@
 [submodule "Mods/Malverk"]
 	path = Mods/Malverk
 	url = https://github.com/Eremel/Malverk/
+[submodule "Mods/Aure-Spectral"]
+	path = Mods/Aure-Spectral
+	url = https://github.com/Eremel/Aure-Spectral/
