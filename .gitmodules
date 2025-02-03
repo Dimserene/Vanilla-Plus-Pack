@@ -85,3 +85,6 @@
 [submodule "Mods/Aure-Spectral"]
 	path = Mods/Aure-Spectral
 	url = https://github.com/Eremel/Aure-Spectral/
+[submodule "Mods/Celestial-Funk"]
+	path = Mods/Celestial-Funk
+	url = https://github.com/LimeEffy/Celestial-Funk
