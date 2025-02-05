@@ -88,3 +88,6 @@
 [submodule "Mods/Celestial-Funk"]
 	path = Mods/Celestial-Funk
 	url = https://github.com/LimeEffy/Celestial-Funk
+[submodule "Mods/Order"]
+	path = Mods/Order
+	url = https://github.com/pinkmaggit-hub/Order/
