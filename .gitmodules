@@ -67,9 +67,6 @@
 [submodule "Mods/ColorblindSeals"]
 	path = Mods/ColorblindSeals
 	url = https://github.com/martinkauppinen/colorblind-seals
-[submodule "Mods/Finn-Pokemon-Jokers"]
-	path = Mods/Finn-Pokemon-Jokers
-	url = https://github.com/Finnaware/Finn-Pokemon-Jokers/
 [submodule "Mods/MarvelMidnightSuns"]
 	path = Mods/MarvelMidnightSuns
 	url = https://github.com/Staegloth/BalatroMarvelMidnightSuns/
@@ -88,9 +85,6 @@
 [submodule "Mods/Celestial-Funk"]
 	path = Mods/Celestial-Funk
 	url = https://github.com/LimeEffy/Celestial-Funk
-[submodule "Mods/Order"]
-	path = Mods/Order
-	url = https://github.com/pinkmaggit-hub/Order/
 [submodule "Mods/SystemClock"]
 	path = Mods/SystemClock
 	url = https://github.com/Breezebuilder/SystemClock
