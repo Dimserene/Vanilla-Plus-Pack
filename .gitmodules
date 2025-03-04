@@ -22,9 +22,6 @@
 [submodule "Mods/Blueprint"]
 	path = Mods/Blueprint
 	url = https://github.com/stupxd/Blueprint
-[submodule "Mods/FoldButton"]
-	path = Mods/FoldButton
-	url = https://github.com/happinyz/BalatroFoldButton
 [submodule "Mods/Handy"]
 	path = Mods/Handy
 	url = https://github.com/SleepyG11/HandyBalatro
@@ -52,3 +49,6 @@
 [submodule "Mods/DeckStickerShowEverywhere"]
 	path = Mods/DeckStickerShowEverywhere
 	url = https://github.com/qwerty9118/DeckStickerShowEverywhere
+[submodule "Mods/Jimbos_Metrics"]
+	path = Mods/Jimbos_Metrics
+	url = https://gitlab.com/CraftedCart/jimbos_metrics/
