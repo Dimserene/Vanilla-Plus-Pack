@@ -52,3 +52,6 @@
 [submodule "Mods/Jimbos_Metrics"]
 	path = Mods/Jimbos_Metrics
 	url = https://gitlab.com/CraftedCart/jimbos_metrics/
+[submodule "Mods/Banner"]
+	path = Mods/Banner
+	url = https://github.com/SylviBlossom/Banner
